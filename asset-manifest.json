@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adb2717c.chunk.css",
+    "main.js": "/static/js/main.484f6877.chunk.js",
+    "main.js.map": "/static/js/main.484f6877.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49925162.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49925162.js.map",
+    "static/css/2.af131a1d.chunk.css": "/static/css/2.af131a1d.chunk.css",
+    "static/js/2.feb6c5cc.chunk.js": "/static/js/2.feb6c5cc.chunk.js",
+    "static/js/2.feb6c5cc.chunk.js.map": "/static/js/2.feb6c5cc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f403c3dfdea79744e9cafd8b9434fdac.js": "/precache-manifest.f403c3dfdea79744e9cafd8b9434fdac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af131a1d.chunk.css.map": "/static/css/2.af131a1d.chunk.css.map",
+    "static/css/main.adb2717c.chunk.css.map": "/static/css/main.adb2717c.chunk.css.map",
+    "static/js/2.feb6c5cc.chunk.js.LICENSE.txt": "/static/js/2.feb6c5cc.chunk.js.LICENSE.txt",
+    "static/media/Gordita Black Italic.otf": "/static/media/Gordita Black Italic.c240349d.otf",
+    "static/media/Gordita Light.otf": "/static/media/Gordita Light.d55f9bfa.otf",
+    "static/media/App.css": "/static/media/Gordita Medium.2a23af3d.otf",
+    "static/media/Gordita Regular.otf": "/static/media/Gordita Regular.8f8fc889.otf",
+    "static/media/Helvetica.ttf": "/static/media/Helvetica.1b580d98.ttf",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49925162.js",
+    "static/css/2.af131a1d.chunk.css",
+    "static/js/2.feb6c5cc.chunk.js",
+    "static/css/main.adb2717c.chunk.css",
+    "static/js/main.484f6877.chunk.js"
+  ]
+}
